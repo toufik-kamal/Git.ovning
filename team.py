@@ -1,1 +1,1 @@
-message = "Vi lär oss Git tillsammans" 
+message = "Vi lär oss Git" 
